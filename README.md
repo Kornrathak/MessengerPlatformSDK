@@ -7,5 +7,3 @@ Link: https://developers.facebook.com/docs/messenger-platform
 
 # MessengerPlatformSDK
 This project is source of C# library for Messenger Platform (Facebook). You can download or fork to use Visual Studio.
-
-# MessengerPlatform
